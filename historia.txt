@@ -1,11 +1,6 @@
 Este es mi primer archivo para revisar como funciona git
 
-Mi nombre es Clarita Guaman G.
-Nacida en Ecuador.
+Mi nombre es Clarita
 Realizando curso de Git en Platzi.
 
-En cámara parece alto, pero en realidad no lo es.
-
-Hoy hablaremos de su vida.
-
-Hablamos de su historia.
+Mañana nos enfocaremos en su vida laboral.
