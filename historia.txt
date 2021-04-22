@@ -7,3 +7,5 @@ Realizando curso de Git en Platzi.
 En cámara parece alto, pero en realidad no lo es.
 
 Hoy hablaremos de su vida.
+
+Hablamos de su historia.
