@@ -12,10 +12,28 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid tomato;
+    border: 1px solid midnightblue;
     margin: auto;
 }
 #container h1
 {
+    font-size: 30px;
+    font-weight: bold;
+}
+#container h2
+{
     font-size: 20px;
+    font-weight: bold;
+}
+#container p{
+    font-size: 16px;
+}
+#cabecera{
+    border: solid 2px cornflowerblue;
+    padding: 2%;
+    margin: 0;
+    background-color: lightslategray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: lightyellow;
+    box-shadow: 2px 2px 5px #999; 
 }
